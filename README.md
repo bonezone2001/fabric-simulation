@@ -2,7 +2,7 @@
 
 ### Physics Constraint Example
 
-This was just a fun little project I decided to do at like 4 AM one night before my bday!
+This was just a fun little project I decided to do at like 4 AM on my birthday!
 
 This is a 2D simulation of cloth. Sorta. I just use it for simulating cloth but it can also simulate rope, chains and other things that are linked together via physics constraints.
 
