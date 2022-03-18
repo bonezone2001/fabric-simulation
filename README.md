@@ -27,6 +27,9 @@ First we need to check out the git repo:
 ```bash
 ❯ git clone https://github.com/bonezone2001/fabric-simulation.git
 ❯ cd fabric-simulation
+
+-- Use CMake GUI to build or...
+
 > mkdir build
 > cd build
 ❯ cmake ..
