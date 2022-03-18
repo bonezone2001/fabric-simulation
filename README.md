@@ -8,8 +8,6 @@ This is a 2D simulation of cloth. Sorta. I just use it for simulating cloth but 
 
 The code is not the absolute best I've ever made, I made it really quickly after seeing somebody else do something similar for their project in java. I just sped through it so if the code isn't of the highest quality or I do things wrong. You have my appologises. It is also my first time creating my OWN CMake project. I've had experience building other people's but never creating my own.
 
-Divider is a minimal project that's kept deliberately very small. When you build it using CMake/make (see below) it generates:
-
 ## Usage
 
 ### Prerequisites
