@@ -42,6 +42,7 @@ The simulation controls were kinda rushed so  I haven't created some nice-to-hav
 > Left click over point - Link point (click on another point to link the two)
 > Right click over point - Lock point
 > Middle click over point - Delete point and it's links
+> Space - Pause / Unpause (simulation starts paused)
 ```
 
 #### Contributing
