@@ -6,7 +6,7 @@ This was just a fun little project I decided to do at like 4 AM on my birthday!
 
 This is a 2D simulation of cloth. Sorta. I just use it for simulating cloth but it can also simulate rope, chains and other things that are linked together via physics constraints.
 
-The code is not the absolute best I've ever made, I made it really quickly after seeing somebody else do something similar for their project in java. I just sped through it so if the code isn't of the highest quality or I do things wrong. You have my appologises. It is also my first time creating my OWN CMake project. I've had experience building other people's but never creating my own.
+The code is not the absolute best I've ever made, I made it really quickly after seeing somebody else do something similar for their project. I just sped through it so if the code isn't of the highest quality or I do things wrong. You have my appologises. It is also my first time creating my OWN CMake project. I've had experience building other people's but never creating my own.
 
 ## Usage
 
